@@ -1,6 +1,8 @@
 package com.company;
 
 import com.company.Factory.connectionFactory;
+import com.company.model.receitas;
+
 import java.sql.Connection;
 
 public class Main {
